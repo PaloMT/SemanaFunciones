@@ -1,5 +1,3 @@
-//Sara Paloma Martínez-Tizón García. Matricula bw0100. Grupo IWSM12
-
 public class Sesion4  {
     public static void domingosDelMes(int mes3, int ano3){
         int diaspasados = Sesion3.getDiasDeMes(mes3);
@@ -66,3 +64,4 @@ public class Sesion4  {
         return resultado;}
 
 }
+
