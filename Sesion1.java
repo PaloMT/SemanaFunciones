@@ -1,5 +1,3 @@
-//Sara Paloma Martínez-Tizón García. Matricula bw0100. Grupo IWSM12
-
 import java.util.Scanner;
 
 public class Sesion1 {
@@ -46,3 +44,4 @@ public class Sesion1 {
         }
     }
 }
+
